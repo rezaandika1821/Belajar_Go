@@ -40,4 +40,5 @@ _ = "dasdsakdjaksdj" //deklarasi underscore
 	input.Scan()
 	addresstemen = input.Text()
 	fmt.Println("ini address temen anda : ", addresstemen)
+	//ini branch operator
 }
